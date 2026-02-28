@@ -1,0 +1,2 @@
+# latlot_-Latitude-Logitude-_Python_Automation_BingMaps
+A high-speed Python automation script that extracts latitude and longitude coordinates from bulk addresses using Bing Maps.  This project reads addresses from Excel, performs automated searches on Bing Maps using Selenium with Undetected ChromeDriver, and extracts coordinates directly from the URL (cp=lat~lon parameter) without using any API.
